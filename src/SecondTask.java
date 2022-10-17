@@ -14,3 +14,5 @@ public class SecondTask {
 
     }
 }
+
+//code by boyarishnik

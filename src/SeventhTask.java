@@ -13,3 +13,6 @@ public class SeventhTask {
 
     }
 }
+
+
+//code by boyarishnik

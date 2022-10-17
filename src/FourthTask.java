@@ -7,3 +7,5 @@ public class FourthTask {
     }
 
 }
+
+//code by boyarishnik
