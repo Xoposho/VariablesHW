@@ -18,3 +18,5 @@ public class EighthTask {
 
     }
 }
+
+//code by boyarishnik

@@ -16,3 +16,5 @@ public class SixthTask {
 
     }
 }
+
+//code by boyarishnik

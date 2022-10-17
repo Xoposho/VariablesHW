@@ -6,3 +6,5 @@ public class FirstTask {
         var paper = 763789;
     }
 }
+
+//code by boyarishnik

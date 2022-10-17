@@ -7,3 +7,5 @@ public class FifthTask {
         System.out.println(frog);
     }
 }
+
+//code by boyarishnik
